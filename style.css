@@ -12,12 +12,12 @@
   }
   
   body {
-    font: 2rem "Monaco", Inconsolata, monospace;
+    font: 20px "Monaco", Inconsolata, monospace;
     background: #212121;
     color: #FFFF00;
     display: flex;
     align-items: center;
     justify-content: center;
-    line-height: 2.5rem;
+    line-height: 25px;
     text-align: center;
   }
