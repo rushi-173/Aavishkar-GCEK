@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+    -webkit-font-smoothing: antialiased;
+  }
+  
+  html,
+  body {
+    height: 100%;
+    margin: 0;
+    width: 100%;
+  }
+  
+  body {
+    font: 16px "Monaco", Inconsolata, monospace;
+    background: #212121;
+    color: #FFFF00;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    line-height: 1.5rem;
+    text-align: center;
+  }
